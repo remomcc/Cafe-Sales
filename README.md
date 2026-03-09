@@ -40,7 +40,7 @@ Interactive visualizations created with [Tableau Public](https://public.tableau.
 - Explore additional exogenous features such as promotions, holidays, or weather to improve forecasts.
 
 ## Repository Structure
-- dirty_cafe_sales.csv is from Kaggle: https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training.
+- dirty_cafe_sales.csv is from [Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training).
 -Preliminary cleaning was done using MySQL with cafe_cleaning.sql and resulting in cafe_staging_data.csv.
 -Imputation, EDA, data preprocessing, and modeling results and can be seen in the Cafe_sales.ipynb. 
 -Helper functions and classes for data processing and modeling can be found in data_processing.py and modeling.py, respectively.
