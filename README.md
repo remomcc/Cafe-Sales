@@ -1,4 +1,4 @@
-# Cafe Item Revenue Forecasting
+# Cafe Item Revenue Forecasting & Menu Decisions
 
 ## Project Overview
 This project analyzes daily revenue trends and volatility of cafe menu items using a synthetic 2023 dataset of 10,000 transactions. SARIMAX and Prophet models forecast item-level revenue for the first week of 2024 to provide insights into menu stability, demand patterns, and potential promotions.
