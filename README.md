@@ -23,7 +23,8 @@ This project analyzes daily revenue trends and volatility of cafe menu items usi
 
 ## Results
 - Both SARIMAX and Prophet outperformed the naive baseline in terms of MAE and residual distribution.  
-- Prophet produced the lowest mean absolute error and was used for final forecasts.  
+- Prophet produced the lowest mean absolute error and was used for final forecasts.
+<img width="944" height="350" alt="summary (1)" src="https://github.com/user-attachments/assets/7d36560c-c724-4b7f-b805-c17b672933f8" />
 - Analysis suggested all items should be kept; smoothies may be offered seasonally during peak demand.
 <img width="1998" height="1598" alt="Cafe Menu Decisions" src="https://github.com/user-attachments/assets/b04699c2-41c3-4837-8c4a-3b76ae0cac53" />
 
